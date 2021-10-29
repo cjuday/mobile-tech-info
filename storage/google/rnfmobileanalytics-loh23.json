@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rnfmobileanalytics",
+  "private_key_id": "3c930c5a9a6f8ac4cb916497cfeb219eb6ffcfa6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaViLdkJ3qW/Ow\nZ0G+B/Iir1JnCofRxgXxVHhI9UypVssRG3Z4XXJsyOay7olObAkZWTEV05RLoaMo\n2U2Al2LbZgJnZsbwndqNJSlOJ+yrovoxHhxn0y85W7XnrpCtWpVx2jiD0qvUaJsY\nLWYCSZty6tGJZs6eyJDL3PsphoeSBSjTxQy928yl7k/yWFizJ8yZ6tw6toWApfOL\nPx+p+z1SBd///gbOIz5MyC0H+pXPrKR68UOHbJSNgl+pCGIDnnbfb6Ky23oSjNX4\ntMt57poRzlIh1mGB9+LvfmqrU2jOqCXRaP4Z+4M0l74MtxDR00uXTRrAr9xrNsF9\n9mykmIYTAgMBAAECggEABpRphByoPteQuhKM4PchwYzL7IysYasZkcJSJnoevJFw\nstgC4vrI6A5gl3xH6kn80VHWH+IXTmojtJgfD75kfooIzDO7g4KXULEm46gcFO0r\n0XBBMcP1HXLlfG0ayek0udfd1PDkVnfnNM6qrKpKsEmGiV8Sq/5M/gP7yTdtDDKP\nIHWxkvN6uMZ4dK21eqHzYL94kBXfPu0VpttYwVWIuDFUM9EDyyZohQ0/nzWeFebn\n/aTIFVUd6Mbu7bUNNpuJkMgQ7p0O/0eSTxo9Tu8kq/CzlQZ/4ZIMYO11ZXTYToXt\nGYRXxPKZCbgkaUmfRccH4s550yQzIoWzH4XYuLj/UQKBgQDUj0VjAWFENNA+JTwf\nik9BjSkwwaYa++hAIogbtjsPVx6OPBgJw9OayhNH9fcgQNZBhfRIRvNlDachA+tn\naHTh2u4hDmOoX0iY67SsKZsgX6qllM7WQsi2buG9AtKEiFHm5NMGNcPMxpRfeg3P\nIFwrG4+xXcqTNxrMHO77ij1PHQKBgQC54LxQzQ7P4s5tIzj6o9vXN74RZoQbpeED\n3G/zNssrcIuohUx1+FWIcGcimbAlJ8Ka+yXfBVtiosep+H5iLGknZ62DOrvXKrF+\nOdivm2rIwrB0Io3IciJZ2+KmbXmVWhtGHza+aoGQSON41HHdJOKKyH0Ie3Lpqguu\niFbEPwgy7wKBgGhHwarIyodDwcY7TjvLBwcJ0eNxnaQvYcnVJyExTdhAzWTKZqCj\nyfRunvb23L6eEH8k0KuE43P4Nr4jxiF9RZpoZdshzBKWbG9Zc9Hit5AyXu3NC4xi\nR0X5MBYihFUw671zFXQ+fEjCQ5hzsMKlBZLAesZxVSjUJ/lrWHNfZqShAoGAfgq+\np6vlF2Kcx7TStmLWeCH8aKAzhOv+oTehUjMdod83VJbPOk+i8FoIFZZRs2A6vgz/\nqTNgvInVCpTOXpPu2iGbrxjstwLkSMvA+5NP3cLnFFk5+2opkPVhw6kIgRYQ2IPi\nA00Ffmlulki4zVRtqd45qr7LNVdxhHA/JeP4E1ECgYA9j6MI1E7LMWfdXUoCD4SG\n8DN+thrjd99aScDXTgKp6lKZDvkCQjPXkvwUwkC0q4ZVZoq1VB6KT/Z10VeDkKzz\nq+khx9MtjAVYMFzeebX74D8eGjvdegc20Wif68lE62Uf+AdG5IgCVzF+OgQTyzAk\n42wNgyT0SfXZ3SF9eOsONw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rnfmobile@rnfmobileanalytics.iam.gserviceaccount.com",
+  "client_id": "114971686654147325238",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rnfmobile%40rnfmobileanalytics.iam.gserviceaccount.com"
+}
